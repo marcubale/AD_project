@@ -1,6 +1,10 @@
 # Parking sensors
 The Parking sensors sample demonstrate the use of a proximity sensors, if the distance is lower than 30cm the red led will turn on else the green one will stay on
 
+## Screenshots
+
+![Parking sensor sample demo][demo-gif]
+
 ## Pre-requisites
 
 - Raspberry 4
@@ -19,3 +23,4 @@ The Parking sensors sample demonstrate the use of a proximity sensors, if the di
 ## Running
 run the script and the app will be working instantly
 
+[demo-gif]: 7hyke5.gif
